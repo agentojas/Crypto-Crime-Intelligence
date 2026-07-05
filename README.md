@@ -1,6 +1,8 @@
 # Crypto Exchange Enumeration for Investigation Leads
 
-A simple OSINT technique to help investigators identify which cryptocurrency exchange a suspect may be using, starting with nothing more than a phone number.
+A simple OSINT technique to help investigators identify which cryptocurrency exchange a suspect may be using, starting with nothing more than a phone number. This Methodology Help Investigator Officer to find Out Which Crypto Exchange is used by criminal to get KYC Details 
+
+Note : The Actual Methodology is not Publish here It Keep Private And Only Share with LEAs
 
 ---
 
@@ -26,12 +28,6 @@ This allows investigators to create a shortlist of relevant exchanges before ini
 
 ---
 
-# How It Works
-
-Many cryptocurrency exchanges check whether a phone number is already registered during account creation to prevent duplicate accounts.
-
-This behavior can be used to narrow investigative leads.
-
 ## Step 1
 
 Obtain the suspect's mobile number from:
@@ -40,68 +36,6 @@ Obtain the suspect's mobile number from:
 - NCRP report
 - Intelligence input
 - Other lawful investigative sources
-
----
-
-## Step 2
-
-Visit the exchange's public registration page.
-
----
-
-## Step 3
-
-Enter the suspect's phone number as if creating a new account.
-
----
-
-## Step 4
-
-Observe the exchange's response.
-
-### Registered Number
-
-The exchange displays messages similar to:
-
-```
-Phone number already registered
-```
-
-or
-
-```
-Account already exists
-```
-
-This suggests the suspect likely has an account on that exchange.
-
----
-
-### Not Registered
-
-The registration process continues normally (typically requesting an OTP without displaying an "already registered" error).
-
-This suggests the phone number is not currently registered on that exchange.
-
----
-
-## Step 5
-
-Repeat the process across multiple exchanges.
-
----
-
-## Step 6
-
-Create a shortlist of exchanges where the phone number appears to be registered.
-
----
-
-## Step 7
-
-Send legal notices, preservation requests, or KYC requests **only** to the shortlisted exchanges.
-
-This transforms a broad, trial-and-error process into a focused investigative workflow.
 
 ---
 
@@ -168,7 +102,7 @@ It **does not** reveal:
 - Balances
 - Personal information
 
-Any subscriber information or account details must still be obtained through the appropriate legal process (such as a subpoena, legal notice, court order, or preservation request), in accordance with applicable laws and the exchange's procedures.
+Any subscriber information or account details must still be obtained through the appropriate legal process (such as a  legal notice, court order, or preservation request), in accordance with applicable laws and the exchange's procedures.
 
 ---
 
